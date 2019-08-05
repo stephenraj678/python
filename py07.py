@@ -1,10 +1,10 @@
-n1=int(input())
+n21=int(input())
 
-if(n1!=0):
+if(n21!=0):
 
     i=0
 
-    while(i<n1):
+    while(i<n21):
 
         print("Hello")
 
