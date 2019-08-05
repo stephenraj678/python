@@ -1,5 +1,5 @@
 import sys
 vow='aeiouAEIOU'
-v = input('enter a char : ')
-if v in vow : print('Vowel')
+c1 = input('enter a char : ')
+if c1 in vow : print('Vowel')
 else  :  print('consonant')
