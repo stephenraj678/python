@@ -1,6 +1,6 @@
-n1=int(input())
+n11=int(input())
 
-if n1%4==0:
+if n11%4==0:
 
 	print("yes")
 
