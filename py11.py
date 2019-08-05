@@ -1,5 +1,5 @@
 #s
 import sys
-x,y = map(int,input('enter x y :').split())
+x,y = map(int,input().split())
 p = x**y
 print(p)
