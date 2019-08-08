@@ -1,6 +1,6 @@
 #S
 import sys
-n = int(input('enter n :'))
+n = int(input())
 s = str(n)
 if  s == s[::-1] : print(‘yes’)
 else :             print(‘no’)
